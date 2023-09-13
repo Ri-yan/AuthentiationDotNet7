@@ -1,0 +1,12 @@
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\bin\Debug\net7.0\EmailLibrary.deps.json
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\bin\Debug\net7.0\EmailLibrary.dll
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\bin\Debug\net7.0\EmailLibrary.pdb
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\obj\Debug\net7.0\EmailLibrary.csproj.AssemblyReference.cache
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\obj\Debug\net7.0\EmailLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\obj\Debug\net7.0\EmailLibrary.AssemblyInfoInputs.cache
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\obj\Debug\net7.0\EmailLibrary.AssemblyInfo.cs
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\obj\Debug\net7.0\EmailLibrary.csproj.CoreCompileInputs.cache
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\obj\Debug\net7.0\EmailLibrary.dll
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\obj\Debug\net7.0\refint\EmailLibrary.dll
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\obj\Debug\net7.0\EmailLibrary.pdb
+E:\DOWNLOAD\GIGS\Auth\Auth\EmailLibrary\obj\Debug\net7.0\ref\EmailLibrary.dll

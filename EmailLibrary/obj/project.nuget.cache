@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBafUlm6oRqEEx+xCQX5aP/+cdGQY/UkNzf1iLjfVluFoa1Qmh56AJiU1q+8n5GSFh8+hYIoCu2e9YXPyCM+gw==",
+  "success": true,
+  "projectFilePath": "E:\\DOWNLOAD\\GIGS\\Auth\\Auth\\EmailLibrary\\EmailLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riyan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Riyan\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
